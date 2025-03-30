@@ -1,0 +1,20 @@
+{
+	"name": "init",
+	"version": "1.0.1",
+	"description": "my first node initialization ",
+	"main": "main.js ",
+	"scripts": {
+		"test": "start ",
+		"start": "node main.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/xkyota/node-init.git"
+	},
+	"author": "maksym",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/xkyota/node-init/issues"
+	},
+	"homepage": "https://github.com/xkyota/node-init#readme"
+}
